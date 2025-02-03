@@ -13,7 +13,8 @@
   </a> 
 </p>
 
-- 📫 How to reach me **robot25112004@gmail.com** & **https://singhrahul2511.github.io/portfolio/**
+- 📫 How to reach me **robot25112004@gmail.com**
+- My Personal Portfolio **https://singhrahul2511.github.io/portfolio/**
 
 - ⚡ Fun fact **I am funny😁**
 
