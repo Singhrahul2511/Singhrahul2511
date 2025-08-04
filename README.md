@@ -1,85 +1,66 @@
-<div align="center">
-<a href="https://www.google.com/search?q=https://github.com/Singhrahul2511">
-<img src="https://www.google.com/search?q=https://github.com/Singhrahul2511/Singhrahul2511/blob/main/Screenshot%202023-12-01%20011918.jpg" alt="Logo" width="150" height="150">
-</a>
-<h1 align="center">Rahul Kumar</h1>
-<p align="center">
-Software Engineer | AI & Machine Learning Enthusiast | Full-Stack Developer
-<br />
-<a href="https://singhrahul2511.github.io/portfolio/"><strong>Portfolio</strong></a> ·
-<a href="https://www.linkedin.com/in/rahul-kumar-8ab740268/"><strong>LinkedIn</strong></a> ·
-<a href="https://www.google.com/search?q=https://github.com/Singhrahul2511"><strong>GitHub</strong></a> ·
-<a href="https://www.youtube.com/@aiwithrahul25"><strong>YouTube</strong></a>
-</p>
-</div>
+![Header](https://github.com/Singhrahul2511/Singhrahul2511/blob/main/Screenshot%202023-12-01%20011918.jpg)
 
-About Me
-I am a final-year Computer Science student with a strong foundation in software development and a passion for building intelligent applications. My experience includes an AI Research Internship at Alignerr.ai, where I evaluated and benchmarked large language models for code generation tasks. I enjoy the entire development lifecycle, from conceptualizing and designing backend systems to creating intuitive user interfaces. I am actively seeking challenging roles in Software Engineering and Data Science where I can apply my skills in Python, AI, and full-stack development to contribute to innovative projects.
-
-🛠️ Tech Stack & Tools
-My technical toolkit includes a variety of languages, frameworks, and tools to bring ideas to life.
-
-Languages
-
-Frameworks & Libraries
-
-Developer Tools
-
-Databases
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" />
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Flask-000000%3Fstyle%3Dfor-the-badge%26logo%3Dflask%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/NumPy-013243%3Fstyle%3Dfor-the-badge%26logo%3Dnumpy%26logoColor%3Dwhite" />
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GIT-E44C30%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/VS_Code-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dvisual%2520studio%2520code%26logoColor%3Dwhite" />
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-025E8C%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft-sql-server%26logoColor%3Dwhite" />
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/scikit--learn-F7931E%3Fstyle%3Dfor-the-badge%26logo%3Dscikit-learn%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Streamlit-FF4B4B%3Fstyle%3Dfor-the-badge%26logo%3Dstreamlit%26logoColor%3Dwhite" />
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Jupyter-F37626%3Fstyle%3Dfor-the-badge%26logo%3DJupyter%26logoColor%3Dwhite" />
-
-
-
-🚀 Featured Projects
-Here are some of the key projects I've worked on. You can find more on my portfolio and GitHub.
-
-Project
-
-Description
-
-Tech Stack
-
-Links
-
-AI Resume & Interview Coach
-
-A full-stack app that uses the Google Gemini API to analyze resumes, generate tailored interview questions, and provide performance feedback.
-
-Python Streamlit LangChain Gemini API
-
-Live Demo <br> GitHub
-
-IPL Analytics Dashboard
-
-A web app delivering IPL insights with a Flask REST API backend and a Scikit-learn model for match predictions.
-
-Python Flask Pandas Scikit-learn Bootstrap
-
-Live Demo <br> GitHub
-
-📊 GitHub Stats & Activity
-<p align="center">
-<a href="https://www.google.com/search?q=https://github.com/Singhrahul2511">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dsinghrahul2511%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dsinghrahul2511%26layout%3Dcompact%26langs_count%3D8%26theme%3Ddracula"/>
-</a>
-</p>
+<h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
+<h3 align="center">Aspiring Data Scientist | Python Enthusiast | ML & AI Explorer</h3>
 
 <p align="center">
-<a href="https://www.google.com/search?q=https://github.com/Singhrahul2511">
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DSinghrahul2511%26theme%3Dreact-dark%26hide_border%3Dtrue%26area%3Dtrue" width="100%" alt="activity graph">
-</a>
+  <img src="https://komarev.com/ghpvc/?username=singhrahul2511&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+<img align="right" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/new-3d-image.gif" width="400" alt="animated" />
+
+## 🚀 About Me
+
+- 🎓 Final-year student passionate about building **AI-powered solutions** to solve real-world problems.
+- 💼 Experienced in developing projects in **Data Science**, **Machine Learning**, and **Software Engineering** domains.
+- 🛠️ Skilled in Python, SQL, Tableau, Flask, Scikit-learn, Pandas, NumPy, and Git.
+- 📂 Developed several impactful projects, including:
+  - 🔍 AI Resume Screening System
+  - 🤖 Pose Estimation with GNN
+  - 🧠 Mind Map Generator using Gemini API
+  - 💡 Smart Waste Collection System (Website + APK)
+- 🎥 Content Creator at [AI with Rahul](https://www.youtube.com/@aiwithrahul25)
+- 🧾 Certified in **Python for Data Science**, **Machine Learning**, and **SQL Analytics**
+
+## 📫 Contact Me
+
+- 📧 Email: **robot25112004@gmail.com**
+- 🌐 Portfolio: [https://singhrahul2511.github.io/portfolio](https://singhrahul2511.github.io/portfolio/)
+- 🖇️ LinkedIn: [Rahul Kumar](https://www.linkedin.com/in/rahul-kumar-8ab740268/)
+- 📹 YouTube: [AI with Rahul](https://www.youtube.com/@aiwithrahul25)
+- 📸 Instagram: [@singhrahul2.0](https://www.instagram.com/singhrahul2.0/)
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://www.tableau.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
+  <a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40"/></a>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=singhrahul2511&show_icons=true&theme=github_dark" alt="Rahul's GitHub stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhrahul2511&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
+
+## 🧠 Certifications & Learning
+
+- Python for Data Science (IBM)
+- Machine Learning with Python (Coursera)
+- Data Visualization with Tableau
+- SQL for Data Analysis (Mode Analytics)
+
+---
+
+### ⚡ Fun Fact:
+> I bring data to life and sprinkle a bit of humor along the way 😄
+
