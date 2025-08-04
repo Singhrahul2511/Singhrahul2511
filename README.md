@@ -40,14 +40,32 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-`Python` `SQL`  
-**Libraries & Frameworks:**  
-`NumPy` `Pandas` `Matplotlib` `Scikit-learn` `Flask` `LangChain`  
-**Developer Tools:**  
-`VS Code` `Git & GitHub` `Jupyter Notebook`  
-**Core Subjects:**  
-`DBMS` `Data Structures & Algorithms` `OOPs` `OS` `CN`
+<p align="center">
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
+
+  <!-- Frameworks & Libraries -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="50" height="50"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" alt="Scikit-learn" width="50" height="50"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" title="Pandas" alt="Pandas" width="50" height="50"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" title="NumPy" alt="NumPy" width="50" height="50"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" title="Matplotlib" alt="Matplotlib" width="50" height="50"/>&nbsp;
+
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" title="Jupyter Notebook" alt="Jupyter" width="50" height="50"/>&nbsp;
+</p>
+
+<p align="center">
+  <strong>Languages:</strong> Python, SQL &nbsp;|&nbsp;
+  <strong>Libraries:</strong> NumPy, Pandas, Matplotlib, Scikit-learn &nbsp;|&nbsp;
+  <strong>Frameworks:</strong> Flask, LangChain &nbsp;|&nbsp;
+  <strong>Tools:</strong> Git, GitHub, VS Code, Jupyter Notebook
+</p>
+
 
 ## 📜 Certifications & Online Judges
 
