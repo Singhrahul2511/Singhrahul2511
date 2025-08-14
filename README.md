@@ -26,18 +26,6 @@
 - Cleared a competitive Python assessment for onboarding  
 **Tech Used:** Python, Prompt Engineering, Critical Analysis, AI Evaluation
 
-## 🚀 Projects
-
-### 🧑‍💼 [AI Resume & Interview Coach](https://rahul12.streamlit.app/) | [GitHub](https://github.com/Singhrahul2511/AI-Resume-Interview-Coach)
-*Streamlit · Gemini API · LangChain · Matplotlib*
-- Generates behavioral + technical questions from user resumes
-- Includes AI-based mock interview simulator & resume scoring
-
-### 🏏 [IPL Analytics Dashboard](https://ipl-dashboard-rahul.onrender.com/) | [GitHub](https://github.com/Singhrahul2511/IPL-Analytics-Dashboard-)
-*Flask · Pandas · Scikit-learn · Bootstrap · REST API*
-- Provides team insights & predicts match results using ML
-- REST API backend and responsive Bootstrap frontend
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -94,7 +82,7 @@
   <a href="https://www.youtube.com/@aiwithrahul25" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube" />
   </a>
-  <a href="https://singhrahul2511.github.io/portfolio/" target="_blank">
+  <a href="https://rahulpatelportfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
