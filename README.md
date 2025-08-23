@@ -21,39 +21,99 @@
 ## 💼 Experience
 
 ### 🔹 AI Research Intern — Alignerr.ai *(Remote, May–June 2025)*
-- Evaluated Python outputs from two LLMs based on logic & relevance
-- Identified hallucinations, inefficiencies, and incorrect implementations
-- Cleared a competitive Python assessment for onboarding  
-**Tech Used:** Python, Prompt Engineering, Critical Analysis, AI Evaluation
+  - Reviewed 200+ AI-generated Python scripts from an LLM to check accuracy and match with given prompts.
+  - Found and fixed errors, and wrong answers, making the code more reliable.
+  - **Improved skills** in Python, Prompt Engineering, and AI model evaluation through real project work
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
+<table>
+<tr>
+  <td><strong>Languages</strong></td>
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/><br>Python
+  </td>
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/><br>SQL
+  </td>
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50"/><br>R
+  </td>
+</tr>
 
-  <!-- Frameworks & Libraries -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="50" height="50"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" alt="Scikit-learn" width="50" height="50"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" title="Pandas" alt="Pandas" width="50" height="50"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" title="NumPy" alt="NumPy" width="50" height="50"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" title="Matplotlib" alt="Matplotlib" width="50" height="50"/>&nbsp;
+<tr>
+  <td><strong>Data Analysis</strong></td>
+  <td align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="50" height="50"/><br>Pandas
+  </td>
+  <td align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" width="50" height="50"/><br>NumPy
+  </td>
+  <td align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="50" height="50"/><br>Jupyter
+  </td>
+</tr>
 
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" title="Jupyter Notebook" alt="Jupyter" width="50" height="50"/>&nbsp;
-</p>
+<tr>
+  <td><strong>Visualization</strong></td>
+  <td align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50" height="50"/><br>Matplotlib
+  </td>
+  <td align="center">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" height="50"/><br>Seaborn
+  </td>
+  <td align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.svg" width="50" height="50"/><br>Plotly
+  </td>
+</tr>
 
-<p align="center">
-  <strong>Languages:</strong> Python, SQL &nbsp;|&nbsp;
-  <strong>Libraries:</strong> NumPy, Pandas, Matplotlib, Scikit-learn &nbsp;|&nbsp;
-  <strong>Frameworks:</strong> Flask, LangChain &nbsp;|&nbsp;
-  <strong>Tools:</strong> Git, GitHub, VS Code, Jupyter Notebook
-</p>
+<tr>
+  <td><strong>Business Intelligence</strong></td>
+  <td align="center">
+    <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="50" height="50"/><br>Power BI
+  </td>
+  <td align="center">
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="50" height="50"/><br>Tableau
+  </td>
+</tr>
 
+<tr>
+  <td><strong>Machine Learning</strong></td>
+  <td align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50"/><br>Scikit-learn
+  </td>
+  <td align="center">
+    <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="50" height="50"/><br>PyTorch
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Frameworks</strong></td>
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50"/><br>Flask
+  </td>
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" height="50"/><br>FastAPI
+  </td>
+  <td align="center">
+    <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/langchain.png" width="50" height="50"/><br>LangChain
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Tools</strong></td>
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/><br>VS Code
+  </td>
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/><br>Git
+  </td>
+  <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/><br>GitHub
+  </td>
+</tr>
+
+</table>
 
 ## 📜 Certifications & Online Judges
 
