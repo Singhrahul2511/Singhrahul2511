@@ -20,7 +20,7 @@
 
 ## 💼 Experience
 
-### 🔹 AI Research Intern — Alignerr.ai *(Remote, May–June 2025)*
+### 🔹 Python Script Evaluator Intern — Alignerr.ai *(Remote, May–June 2025)*
   - Reviewed 200+ AI-generated Python scripts from an LLM to check accuracy and match with given prompts.
   - Found and fixed errors, and wrong answers, making the code more reliable.
   - **Improved skills** in Python, Prompt Engineering, and AI model evaluation through real project work
